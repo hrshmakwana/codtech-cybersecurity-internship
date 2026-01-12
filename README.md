@@ -36,18 +36,6 @@ Even a single-character change in the file will result in a completely different
 
 ---
 
-## Project Structure
-
-task1_file_integrity_checker/
-│
-├── integrity_checker.py # Main Python script
-├── sample.txt # Sample file for integrity testing
-├── hash_store.txt # Stores the original file hash
-└── README.md # Documentation
-
-
----
-
 ## How to Use
 
 ### Step 1: Navigate to the project directory
